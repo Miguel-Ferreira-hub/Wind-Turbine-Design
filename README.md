@@ -2,8 +2,6 @@
 
 ![Drawing](Images/Drawing.png)
 
-# Design Properties and Behaviour
-
 ![Axial Factors](Images/Axial_Induction_Factors.png)
 
 ![Angular Factors](Images/Angular_Induction_Factors.png)
@@ -16,7 +14,6 @@
 ![Edgewise Bending Moments](Images/Edgewise.png)
 
 ![Flapwise Bending Moments](Images/Flapwise.png)
-
 
 <p align="center">
   <img src="images/Chord_Length.png" alt="Logo" width="300">
