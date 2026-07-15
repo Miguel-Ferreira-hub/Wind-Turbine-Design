@@ -1,4 +1,4 @@
-# Design
+<h1 align="center">Design</h1>
 
 ![Drawing](Images/Drawing.png)
 
@@ -6,7 +6,7 @@
 
 ![Angular Factors](Images/Angular_Induction_Factors.png)
 
-# Forces and Distributions
+<h1 align="center">Forces and Distributions</h1>
 
 (0.5MW Scale Down)
 ![Forces](Images/Forces.png)
