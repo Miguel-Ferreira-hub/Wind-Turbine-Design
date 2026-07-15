@@ -4,7 +4,7 @@
 
 # Design Properties and Behaviour
 
-![Axial Factors](Images/Axial_Induction_Factor.png)
+![Axial Factors](Images/Axial_Induction_Factors.png)
+
 
 ![Angular Factors](Images/Angular_Induction_Factors.png)
-
