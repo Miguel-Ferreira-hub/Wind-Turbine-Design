@@ -17,4 +17,7 @@
 
 ![Flapwise Bending Moments](Images/Flapwise.png)
 
-![Chord Length and Twist Angle](Images/Chord_Length.png)
+
+<p align="center">
+  <img src="images/Chord_Length.png" alt="Logo" width="300">
+</p>
