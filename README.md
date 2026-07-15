@@ -16,5 +16,5 @@
 ![Flapwise Bending Moments](Images/Flapwise.png)
 
 <p align="center">
-  <img src="Images/Chord_Length.png" alt="Chord" width="300">
+  <img src="Images/Chord_Length.png" alt="Chord" width="1000">
 </p>
